@@ -1,0 +1,57 @@
+/*estilos para menu principal*/
+#parar:hover{
+  color:yellow;
+  cursor:pointer;
+}
+#continuar:hover{
+  color:black;
+  cursor:pointer;
+}
+
+
+#contenedor{
+  width: 50%;
+  height: 500px;
+  margin:auto;
+  background:red;
+}
+
+/*estilos para el menu de carpeta*/
+#carpeta{
+  padding: 0px;
+  width: 600px;
+  margin: auto;
+  margin-bottom: 0px;
+  display: inline-block;
+}
+
+#carpeta>li:hover{
+    color: yellow;
+    background: green;
+}
+  .lista{
+    cursor:pointer;
+    border-right:1px solid;
+    width: 91.3px;
+    float: left;
+    list-style: none;
+    cursor: pointer;
+    background: rgba(228, 228, 205, 0.58);
+    text-align: center;
+    border-top-right-radius: 10px;
+  }
+  /*estilos para insertar con javascript menu de carpeta*/
+
+  .resaltar{
+    color:gray;
+  }
+
+
+/*estilos para los los resultados de php*/
+
+
+#practicasphp{
+  color: green;
+  background: yellow;
+  width: 555px
+}

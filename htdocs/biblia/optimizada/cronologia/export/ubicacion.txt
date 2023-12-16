@@ -1,0 +1,473 @@
+John 1
+Genesis 1
+Genesis 2
+Genesis 3
+Genesis 4
+Genesis 5
+Genesis 6
+Genesis 7
+Genesis 8
+Genesis 9
+Genesis 10
+Job 1 - 42
+Genesis 11
+Genesis 12
+Genesis 12:10
+Genesis 13
+Genesis 13:14
+Genesis 14
+Genesis 15
+Genesis 16
+Genesis 16:15
+Genesis 17
+Genesis 18
+Genesis 19
+Genesis 20
+Genesis 21
+Genesis 21:8
+Genesis 21:22
+Genesis 22
+Genesis 23
+Genesis 24
+Genesis 25
+Genesis 25:5
+Genesis 25:29
+Genesis 26
+Genesis 27
+Genesis 28
+Genesis 28:10
+Genesis 29
+Genesis 29:28
+Genesis 30
+Genesis 30:22
+Genesis 31
+Genesis 32
+Genesis 33
+Genesis 33:18
+Genesis 34
+Genesis 35
+Genesis 35:10
+Genesis 36
+Genesis 35:18
+Genesis 37
+Genesis 37:25
+Genesis 38
+Genesis 39
+Genesis 39:7
+Genesis 39:20
+Genesis 40
+Genesis 41
+Genesis 41:33
+Genesis 41:47
+Genesis 41:53
+Genesis 42
+Genesis 42:24
+Genesis 43
+Genesis 44
+Genesis 45
+Genesis 45:9
+Genesis 46
+Genesis 47
+Genesis 48
+Genesis 49
+Genesis 50
+Genesis 50:26
+Exodus 1
+Exodus 1:6
+Exodus 1:8
+Exodus 1:22
+Exodus 2
+Exodus 2:11
+Exodus 2:23
+Exodus 3 - 6
+Exodus 7 - 12
+Exodus 13 - 18
+Exodus 19
+Exodus 20
+Exodus 21 - 24
+Exodus 25 - 31
+Exodus 32
+Exodus 33 - 39
+Exodus 40
+Leviticus 1 - 7
+Leviticus 8, 9
+Leviticus 10
+Leviticus 11 - 19
+Leviticus 20 - 22
+Leviticus 23
+Numbers 1 - 6
+Numbers 7 - 10
+Numbers 11, 12
+Numbers 13
+Numbers 14, 15
+Numbers 16
+Numbers 17
+Numbers 18, 19
+Numbers 20
+Numbers 20:22
+Numbers 21
+Numbers 22 - 25
+Numbers 26
+Numbers 27
+Numbers 27:18
+Numbers 28, 29
+Numbers 30
+Numbers 31
+Numbers 32
+Numbers 33
+Numbers 34
+Numbers 35
+Numbers 36
+Psalm 90
+Deuteronomy 1 - 4
+Deuteronomy 4:44 - 31
+Deuteronomy 32
+Deuteronomy 32:48
+Deuteronomy 33
+Deuteronomy 34
+Joshua 1
+Joshua 2
+Joshua 3 - 5
+Joshua 6 - 8
+Joshua 9
+Joshua 10
+Joshua 11, 12
+Joshua 13 - 22
+Joshua 23, 24
+Judges 17
+Judges 18
+Judges 19
+Judges 20
+Judges 21
+Judges 1
+Judges 2
+Judges 3
+Judges 3:12
+Judges 3:15
+Judges 4
+Judges 5
+Judges 6 - 8
+Ruth 1 - 4
+Judges 9
+Judges 9:22
+Judges 9:50
+Judges 10
+1 Samuel 1
+1 Samuel 2
+Judges 11
+Judges 12
+Judges 13
+Judges 14
+Judges 15
+Judges 16
+1 Samuel 3
+1 Samuel 4, 5
+1 Samuel 6
+1 Samuel 7
+1 Samuel 7:3
+1 Samuel 8 - 10
+1 Samuel 11, 12
+1 Samuel 13
+1 Samuel 14
+1 Samuel 15
+1 Samuel 16
+1 Samuel 17
+1 Samuel 18
+1 Samuel 19
+1 Samuel 20
+Psalm 59
+1 Samuel 21
+Psalm 52
+Psalm 34
+Psalm 56
+1 Samuel 22
+Psalms 57, 142
+1 Samuel 23
+Psalm 54
+1 Samuel 24
+1 Samuel 25
+1 Samuel 26
+1 Samuel 27
+1 Samuel 28
+1 Samuel 29
+1 Samuel 30
+1 Samuel 31
+2 Samuel 1
+2 Samuel 2
+2 Samuel 2:12
+2 Samuel 3
+2 Samuel 3:22
+2 Samuel 4
+1 Chronicles 1 - 9
+1 Chronicles 10
+(2 Samuel 5,1 Chronicles 11)
+1 Chronicles 12
+1 Chronicles 13
+1 Chronicles 14
+(2 Samuel 6,1 Chronicles 15)
+2 Samuel 7
+2 Samuel 8
+Psalm 60
+Psalm 15
+Psalm 24
+1 Chronicles 16
+Psalms 96, 105, 106
+1 Chronicles 17
+1 Chronicles 18
+2 Samuel 9
+(2 Samuel 10, 1 Chronicles 19)
+1 Chronicles 20
+2 Samuel 11
+2 Samuel 12
+Psalm 51
+2 Samuel 12:24
+2 Samuel 13
+2 Samuel 13:23
+2 Samuel 14
+2 Samuel 14:21
+Psalms 2 - 145 (Assorted)
+Psalms 42 - 44, 84, 85, 87, 88
+Psalm 50, 73, 75 - 78, 80 - 83, 89
+Psalms 1 - 150 (Assorted)
+1 Chronicles 21
+1 Chronicles 22
+1 Chronicles 23
+1 Chronicles 24
+1 Chronicles 25
+1 Chronicles 26
+1 Chronicles 27
+2 Samuel 15
+2 Samuel 15:13
+2 Samuel 16
+2 Samuel 16:5
+Psalm 63
+2 Samuel 17
+Psalms 41, 55
+2 Samuel 18
+2 Samuel 19
+2 Samuel 20
+2 Samuel 21
+2 Samuel 22
+2 Samuel 23
+Psalm 108
+2 Samuel 24
+(1 Chronicles 28, 29, 1 Kings 1, 2)
+Psalm 37
+Psalm 72
+(2 Chronicles 1, 1 Kings 3)
+Psalm 45
+1 Kings 4
+1 Kings 5
+1 Kings 6
+1 Kings 7
+1 Kings 8
+1 Kings 9
+2 Chronicles 2
+2 Chronicles 3
+2 Chronicles 4
+2 Chronicles 5
+2 Chronicles 6
+2 Chronicles 7
+Psalms 135, 136
+2 Chronicles 8
+Psalm 127
+Proverbs 1 - 29
+Proverbs 30
+Proverbs 31
+Songs 1 - 8
+1 Kings 9:10
+(1 Kings 10, 2 Chronicles 9)
+1 Kings 11
+Ecclesiastes 1 - 12
+1 Kings 11:40
+1 Kings 12, 13
+2 Chronicles 10
+2 Chronicles 11
+2 Chronicles 12
+1 Kings 14
+1 Kings 14:21
+1 Kings 15
+2 Chronicles 13
+2 Chronicles 14
+1 Kings 16
+2 Chronicles 15
+2 Chronicles 16
+1 Kings 16:5
+1 Kings 16:27
+2 Chronicles 17
+1 Kings 17
+1 Kings 17:3
+1 Kings 17:7
+1 Kings 18
+1 Kings 19
+1 Kings 19:19
+1 Kings 20
+1 Kings 20:14
+1 Kings 21
+1 Kings 22
+Obadiah 1
+2 Chronicles 18
+2 Chronicles 19
+2 Chronicles 20
+2 Chronicles 21
+2 Kings 1
+2 Kings 2
+2 Kings 2:12
+2 Kings 3
+2 Kings 4
+2 Kings 4:8
+2 Kings 5
+2 Kings 6
+2 Kings 7
+2 Kings 8
+2 Kings 9
+2 Kings 9:11
+2 Kings 10
+2 Kings 10:18
+2 Kings 11
+2 Chronicles 22
+2 Chronicles 23
+(2 Chronicles 24, 2 Kings 12)
+Joel 1 - 3
+2 Kings 12:6
+2 Kings 13
+(2 Kings 14, 2 Chronicles 25)
+2 Kings 15
+2 Chronicles 26
+Amos 1 - 9
+Jonah 1 - 4
+Hosea 1 - 14
+2 Chronicles 27
+(2 Chronicles 28,2 Kings 16)
+Isaiah 1 - 5
+Isaiah 6
+Isaiah 7
+Micah 1 - 7
+Isaiah 8
+Isaiah 9
+Isaiah 9:8
+Isaiah 10
+Isaiah 11
+Isaiah 12
+Isaiah 13 - 22
+Isaiah 22
+Isaiah 23
+Isaiah 24
+Isaiah 25 - 27
+Isaiah 28 - 32
+Isaiah 32
+Isaiah 33, 34
+Isaiah 35
+2 Kings 17
+2 Kings 17:6
+2 Kings 17:24
+2 Chronicles 29
+2 Chronicles 30
+2 Chronicles 31
+(2 Kings 20, Isaiah 38)
+(2 Kings 20:12, Isaiah 39)
+Isaiah 40 - 66
+(2 Kings 18, Isaiah 36, 2 Chronicles 32)
+Psalms 46 - 48
+2 Kings 19, Isaiah 37
+Nahum 1 - 3
+(2 Kings 21, 2 Chronicles 33)
+(2 Kings 22, 2 Chronicles 34)
+Zephaniah 1 - 3
+Jeremiah 1
+Jeremiah 2 - 6
+Jeremiah 7 - 10
+Habakkuk 1 - 3
+Jeremiah 11, 12
+2 Kings 22:3
+2 Kings 22:8
+(2 Kings 23, 2 Chronicles 35)
+2 Chronicles 36
+Jeremiah 13 - 20
+Jeremiah 46
+Jeremiah 47
+Daniel 1
+Daniel 2
+2 Kings 24
+2 Kings 24:10
+2 Kings 24:18
+Jeremiah 48
+Jeremiah 49
+Ezekiel 1
+Ezekiel 2
+Ezekiel 3
+Ezekiel 4, 5
+Ezekiel 6, 7
+Ezekiel 8 - 19
+Ezekiel 20
+Ezekiel 21, 22
+Ezekiel 23
+2 Kings 25
+Jeremiah 21 - 33
+Jeremiah 34 - 45
+Ezekiel 24
+Ezekiel 25
+(2 Kings 25, Jeremiah 52)
+Psalms 74, 79
+Jeremiah 50, 51
+Lamentations 1 - 5
+Ezekiel 26 - 28
+Ezekiel 29 - 32
+Ezekiel 33
+Ezekiel 33:21
+Ezekiel 34 - 36
+Ezekiel 37
+Ezekiel 38
+Ezekiel 39
+Daniel 3
+Daniel 4
+Daniel 4:19
+Ezekiel 40 - 48
+Daniel 5
+Daniel 6
+Daniel 7
+Daniel 8
+Daniel 9
+Daniel 10
+Daniel 11
+Daniel 12
+Ezra 1
+Ezra 2
+Ezra 3
+Ezra 4
+Ezra 4:17
+Ezra 5
+Haggai 1, 2
+Zechariah 1 - 14
+Ezra 6
+Ezra 6:16
+Esther 1
+Esther 2
+Esther 2:21
+Esther 3
+Esther 4
+Esther 5
+Esther 6
+Esther 7
+Esther 8
+Esther 9
+Esther 10
+Ezra 7
+Ezra 7:11
+Ezra 8
+Ezra 9
+Ezra 10
+Nehemiah 1
+Nehemiah 2
+Nehemiah 3
+Nehemiah 4
+Nehemiah 5
+Nehemiah 6
+Nehemiah 6:15
+Nehemiah 7
+Nehemiah 8
+Nehemiah 9
+Nehemiah 10
+Nehemiah 11, 12
+Nehemiah 13
+Malachi 1 - 4

@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+	<html lang="es">
+	<head>
+			<meta charset="utf-8">
+			<meta http-equiv="X-UA-Compatible" content="IE=edge">
+			<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">	
+			<title></title>
+			<link rel="stylesheet" href="">
+			<style>
+				*{
+  margin: 0;padding: 0;
+}
+body{
+  background: red;
+  width: 1000px;
+  height: 1000px;
+  
+}
+#contenedor{
+  width:100%;
+  height: 100%;
+  background: green;
+  border:2px solid;
+  margin: auto;
+
+}
+#navegar{
+  width: 100%;
+  height: 100px;
+  background: yellow;
+}
+#capitulos,#versiculos{
+  float:left;
+  height: 100%;
+}
+#capitulos{
+  width: 30%;
+  background: blue;
+}
+#versiculos{
+  width: 70%;
+  background: gray;
+}
+#pie{
+  width: 100%;
+  background:white;
+  clear:both;
+}
+			</style>
+	</head>
+	<body>
+		<div id="contenedor">
+			<menu id="navegar"></menu>
+			<aside id="capitulos"></aside>
+			<div  id="versiculos"></div >
+		</div>
+		<footer id="pie">pie</footer>
+	</body>
+</html>

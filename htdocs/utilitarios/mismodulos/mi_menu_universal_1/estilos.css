@@ -1,0 +1,14 @@
+#mibarramenu{
+	margin: auto;
+	top: 0;
+	background:yellow;
+}
+#mibarramenu>ul>li{
+	display: inline;
+	border-right: 2px solid white;
+	margin-left: 10px;
+
+}
+#mibarramenu>ul>li:hover{
+	background: green;
+}

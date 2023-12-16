@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+	<html lang="es">
+	<head>
+			<meta charset="utf-8">
+			<meta http-equiv="X-UA-Compatible" content="IE=edge">
+			<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">	
+			<title></title>
+			<link rel="stylesheet" href="glyicons.css">
+			<link rel="stylesheet" href="estilos.css">
+			<script src="glyicons.js"></script>
+			<script src="http://localhost:8000/utilitarios/helpers/helpers.js"></script>
+	</head>
+	<body>
+	
+		<div id="lista1">
+		<span onclick='mostrar(this)' class='ico sublime'></span>
+		<span onclick='mostrar(this)' class='ico consola'></span>
+		<span onclick='mostrar(this)' class='ico carver'></span>
+		<span onclick='mostrar(this)' class='ico carinc'></span>
+		<span onclick='mostrar(this)' class='ico carhor'></span>
+		<span onclick='mostrar(this)' class='ico flebd'></span>
+		<span onclick='mostrar(this)' class='ico flebi'></span>
+		<span onclick='mostrar(this)' class='ico flerd'></span>
+		<span onclick='mostrar(this)' class='ico fleri'></span>
+		<span onclick='mostrar(this)' class='ico flend'></span>
+		<span onclick='mostrar(this)' class='ico flevd'></span>
+		<span onclick='mostrar(this)' class='ico masterpc'></span>
+		<span onclick='mostrar(this)' class='ico guardar'></span>
+		<span onclick='mostrar(this)' class='ico nuevo'></span>
+		<span onclick='mostrar(this)' class='ico abrir'></span>
+		<span onclick='mostrar(this)' class='ico copiar'></span>
+		<span onclick='mostrar(this)' class='ico cortar'></span>
+		<span onclick='mostrar(this)' class='ico construir'></span>
+		<span onclick='mostrar(this)' class='ico construirv'></span>
+		<span onclick='mostrar(this)' class='ico minimizar'></span>
+		<span onclick='mostrar(this)' class='ico maximizar'></span>
+		<span onclick='mostrar(this)' class='ico cerrar'></span>
+		<span onclick='mostrar(this)' class='ico edit'></span>
+		<span onclick='mostrar(this)' class='ico plus'></span>
+		</div>
+		
+			<button onclick="abrir()">abrir</button>
+			<code id="textarea">
+				<link rel="stylesheet" href="http://localhost:8000/utilitarios/glyicons/glyicons.css">
+			</code>
+			
+			<button onclick="co()">copiar</button>
+		
+<input id="valorclass" type='text' name="valorclass">
+		<img src="glyicons.svg"/>
+		<script>
+		function co(){
+			let textarea = document.querySelector('#textarea');
+				textarea = textarea.textContent;
+				c(textarea);
+
+		}
+		</script>
+		
+</body>
+</html>

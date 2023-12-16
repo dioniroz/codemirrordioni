@@ -1,0 +1,28 @@
+{
+   "description": "aplicacion para expreciones regulares",
+   "manifest_version": 2,
+   "name": "expresiones regulares",
+   "version": "0.1.2",
+   "homepage_url": "https://imasterpc.net",
+
+   "icons": {
+      "128": "img/emblem-brackets-128.png",
+      "16": "img/emblem-brackets-16.png",
+      "32": "img/emblem-brackets-32.png",
+      "48": "img/emblem-brackets-48.png"
+   },
+
+   "browser_action": {
+    "default_icon": "img/emblem-brackets-16.png",
+    "default_title": "Beastify",
+    "default_popup": "index.html"
+  },
+
+    "permissions": [
+    "activeTab",
+    "contextMenus",
+    "http://*/*",
+    "https://*/*"
+  ]
+
+}

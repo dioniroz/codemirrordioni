@@ -1,0 +1,7 @@
+.LOG
+
+09:01 a.m. 30/04/2020
+esta app debe tener una opcion copiar
+-tanto iconos como los archivos para usarlos en otros proyetos
+- y despues colocarlos en el menu utilitarios para poder usarlos 
+en todos los proyectos

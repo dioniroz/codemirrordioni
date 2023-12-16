@@ -1,0 +1,63 @@
+
+    #explorador * {
+    margin: 0;
+    padding: 0px;
+    top: 0;
+    list-style: none;
+}
+#explorador{
+  margin-left: 20px;
+  border:2px solid;
+  width: 250px;
+}
+.flechas .ico{
+  width: 20px;
+  height: 20px;
+  float: right;
+}
+#boxfile .ico{
+  width: 20px;
+  height: 20px;
+}
+#boxfile > ul {
+  padding-left: 10px;
+}
+#navegador>.ico{
+  width: 20px;
+  height: 20px;
+  margin-left: 5px;
+}
+#navegador>input{
+  float: left;
+}
+#navegador{
+  display: inline-block;
+  background: wheat;
+  width: 250px;
+}
+#navegador.flvd{
+  float: right;
+}
+.interfaz >span.flevd{
+ width: 15px;
+ height: 15px;
+}
+#boxfile{
+  height: 300px;
+  background: #f7f7f7;
+  overflow-y: scroll
+}
+#boxfile>ul>li{
+  color: red;
+}
+#boxfile>ul>li:hover{
+  color:blue;
+  cursor: -moz-grab;
+  background: aquamarine;
+}
+.carpeta{
+  color:gray;
+}
+.carpeta:hover{
+  color:yellow;
+}

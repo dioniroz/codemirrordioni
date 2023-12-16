@@ -1,0 +1,75 @@
+<!doctype html>
+
+<title>CodeMirror: Full Screen Editing</title>
+<meta charset="utf-8"/>
+  
+<!-- estilos -->
+<link rel="stylesheet" type="text/css" href="../lib/personal.css">
+<link rel="stylesheet" href="http://127.0.0.1/utilitarios/bootstrap/dist/css/bootstrap.min.css">
+
+<link rel="stylesheet" href="../lib/codemirror.css">
+<link rel="stylesheet" href="../addon/display/fullscreen.css">
+                  <!-- temas -->
+<link rel="stylesheet" href="../theme/night.css">
+<link rel="stylesheet" href="../theme/the-matrix.css">
+<link rel="stylesheet" href="../theme/rubyblue.css">
+<link rel="stylesheet" href="../theme/erlang-dark.css">
+<link rel="stylesheet" href="../theme/eclipse.css">
+                  <!-- acciones -->
+<script src="../lib/codemirror.js"></script>
+<script src="../mode/xml/xml.js"></script>
+<script src="../addon/display/fullscreen.js"></script>
+<script src="../addon/edit/closebrackets.js"></script>
+<script src="../addon/edit/closetag.js"></script>
+<script src="../lib/mieditorfullscreen.js"></script>
+
+<nav>
+  <ul><li>Select a theme: 
+    <select onchange="selectTheme()" id="select">
+        <option selected>eclipse</option>
+        <option>erlang-dark</option>
+        <option>monokai</option>
+        <option>night</option>
+        <option>rubyblue</option>
+        <option>the-matrix</option>
+    </select>
+    </li>
+  </ul>
+  <button type="" onclick="activar()">activar editor</button>
+
+    <script>
+      var input = document.getElementById("select");
+  function selectTheme() {
+    var theme = input.options[input.selectedIndex].innerHTML;
+    editor.setOption("theme", theme);
+  }
+  var choice = document.location.search &&
+               decodeURIComponent(document.location.search.slice(1));
+  if (choice) {
+    input.value = choice;
+    editor.setOption("theme", choice);
+  }
+    </script>
+    </nav>
+    <div class="editor" id="codear" >
+<textarea id="code"></textarea>
+  <script>
+    var editor = CodeMirror.fromTextArea(document.getElementById("code"), {
+      theme: "night",
+      lineNumbers: true,
+      lineWrapping: true,
+      autoCloseBrackets: true,
+      autoCloseTags: true,
+      extraKeys: {
+        "F11": function(cm) {
+          cm.setOption("fullScreen", !cm.getOption("fullScreen"));
+        },
+        "Esc": function(cm) {
+          if (cm.getOption("fullScreen")) cm.setOption("fullScreen", false);
+        }
+      }
+    });
+  </script>
+  <iframe id="preview"></iframe>
+</var>
+    

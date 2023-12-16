@@ -1,0 +1,9 @@
+rutas = [{
+	"titulo":"filtrado de datos",
+	"valor":"d:/mis videos/diseño wed videos/google/filtrado de datos/",
+	"etiqueta":"p"
+},
+{"titulo":"galeria",
+ "valor":"E:/desarrolloweb/xampp/htdocs/estudiosgaleria/",
+ "etiqueta":"p"}
+]

@@ -1,0 +1,27 @@
+{
+  "description": "agrega un script para modificar pagina",
+  "manifest_version": 2,
+  "name": "insertar required",
+  "version": "1.0",
+  "homepage_url": "https://imasterpc.net",
+  "icons": {
+    "48": "calavera-48.png"
+  },
+
+  "applications": {
+    "gecko": {
+      "id": "modificar@imasterpc.net",
+      "strict_min_version": "45.0"
+    }
+  },
+
+  "permissions": [
+    "activeTab",
+    "contextMenus"
+  ],
+
+  "background": {
+    "scripts": ["background.js"]
+  }
+
+}

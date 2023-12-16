@@ -1,0 +1,219 @@
+*{
+  margin: 0;
+}
+body{
+  list-style: none;
+  width: -webkit-fill-available;
+  height: -webkit-fill-available;
+}
+/**********************favoritos************************/
+  .contenedor-de-informacion{
+        border:1px solid blue;
+        height:200px;
+        resize: both;
+        overflow:scroll;
+          
+      }
+      .contenedor-de-informacion .header{
+        background:blue;
+        border-bottom:1px solid;
+        clear: both;
+        height: 28px;
+      }
+      .contenedor-de-informacion h3{
+        width:83%;
+        float:left;
+        padding:0;
+        height:30px;
+        margin:0;
+        text-align:center;
+      }
+      .contenedor-de-informacion  ul{
+        width:16%;
+        height:30px;
+        float:right;
+        padding:0;
+        margin:0;
+        
+      }
+      .contenedor-de-informacion li{
+        list-style:none;
+        width:20px;
+        display:inline;
+        border:0px;
+      }
+      .contenedor-de-informacion .contenedor{
+        border:3px;
+        height:100%;
+      }
+      .contenedor{
+        height:200px;
+        background:yellow;
+        border:1px green;
+      }
+/**********************header***************************/
+.header{
+text-align: center;
+}
+.header h1 {
+    background: red;
+    text-align: center;
+    text-shadow: 2px 3px 4px white;
+    text-transform: capitalize;
+}
+.header ul{
+  display: inline-flex;
+  margin: auto;
+  /*! width: 500px; */
+}
+.header li {
+  margin-left: 10px;
+}
+li {
+}
+.header li:hover {
+  background: #dd6b6b;
+  cursor: pointer;
+}
+
+h3{
+  text-align: center;
+}
+.lia {
+    margin-left: 10px;
+}
+ul,li,.li{
+  list-style: none;
+  border-bottom: 1px solid white;
+}
+.li{
+  display: block;
+}
+ul{
+  border-right: 1px solid;
+}
+  /********************lecturas**********************/
+ .lecturas{
+  height:600px;
+  float:left;
+  width:88%;
+ }
+#libros{
+  background: white;
+  display:inline-block;
+  float:left;
+  width:12%;
+}
+#libros h4 {
+    text-align: center;
+    border-bottom: 1px solid;
+    width: 100px;
+    font-size: 13px;
+    margin-left: 23px;
+}
+#libros h4:hover {
+  background: #fbd7d7;
+    cursor: pointer;
+
+}
+#libros>ul>div{
+  overflow-y: scroll;
+  height: 550px;
+  background: white;
+}
+#cargarlibro{
+  padding-left: 10px;
+  float:left;
+  height: -webkit-fill-available;
+  padding-top: 0;
+  margin: 0;
+  border: 1px solid;
+    overflow-y:scroll;
+  height: 100%;
+}
+#cargarversiculos{
+  font-size: 1.5em;
+  border: 1px solid;
+  overflow-y:scroll;
+  height: 100%;
+  resize: both;
+  background:white;
+  top: 0;
+  z-index: 5;
+}
+ul,li:nth-child(2n+1),ul,.li:nth-child(2n+1) {
+    background: #f9efef7a;
+}
+
+li,.li {
+    background: #f2565633;
+}
+.ventana {
+    clear: both;
+    background: gray;
+    position: sticky;
+    top: 0;
+}
+.ventana h3 {
+    text-align: center;
+    display: inline-block;
+    width: 88%;
+    font-size: 22px;
+    top: -4px;
+    color: white;
+}
+
+.botones {
+    float: right;
+}
+.menu{
+    background-color: yellow;
+  }
+  .menu ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  .menu li{
+    outline: 2px solid;
+    outline-offset: -2px;
+    text-align: center;
+  }
+  .menu li:hover{
+    background:white;
+    cursor: pointer;
+  }
+  .favoritos{
+      background: #9bf09b;
+      color: #ec8cf2;
+  }
+  .active{
+    display:inline;
+  }
+  .oculto{
+    display:none;
+  }
+.algo {
+    height: 562px;
+    overflow-y: scroll;
+    margin-left: 10px;
+    padding-left: 10px;
+    float: left;
+    font-size: .87em;
+}
+
+footer {
+  margin-left: 20px;
+  border: 2px solid;
+  padding: 10px;
+  overflow: auto;
+  height: 150px;
+}
+/*ventana*/
+.flechaslecturas {
+    float: left;
+}
+/*.capitulos*/
+.capitulos {
+    width: 21%;
+}

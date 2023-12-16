@@ -1,0 +1,13 @@
+ul{
+  width: 200px;
+  margin: auto;
+  background: blue;
+}
+.lista{
+  width: 200px;
+  display: inline-block;
+  border-bottom: 1px solid;
+}
+button{
+  float: right;
+}

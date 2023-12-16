@@ -1,0 +1,31 @@
+.LOG
+05:00 p.m. 07/04/2020
+esta version de la biblia va a estar mejor optimizada y va a utilizar lo aprendido hasta el momento
+php debe estar todo en clases y una glase general que me ejecute todos los verbos http
+esta version va a tener un menu favoritos con un toltip que se muetre ensima de todo el documento html
+-tambien un toltip para el menu
+-el menu de la biblia es6 php7 esta bien estructurado 
+-hay que hacerlo ahora con vue
+-estudiar la usabilidad
+y debe tener bases de datos
+se podra quitar y va a reducir la cargar de archivos
+-el archivo index deberia mostrar el progreso de la app biblia y el archivo optimizada.php adebe ejecutar la version para edicion
+y todo debe ser unido con la app unirphp que hice para codemirror
+
+10:17 a.m. 08/04/2020
+primer problema con los datos
+-la version optimizada he index estan igual ojo con la version optimizada aqui es donde la app union es util para unir todos los archivos js
+-hacer un dibujo de que es lo que quiero y que debe tener
+
+02:36 p.m. 12/04/2020
+ya carga el indice y los libros
+faltan los capitulos
+02:58 p.m. 09/06/2020
+-colocar favoritos y que salgan los versiculos favoritos en otro color
+-guardar los id de los versiculos favoritos en una base de datos 
+-agregar notas a la app biblia y anexar las notas a los favoritos 
+-colocar un boton que diga mostrar favoritos
+-hacer un plan biblico
+-colocarle mapas
+-optimizar la app biblia
+-no olvidar las concordancias

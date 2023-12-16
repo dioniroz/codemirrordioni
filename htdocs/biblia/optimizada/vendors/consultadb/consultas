@@ -1,0 +1,8 @@
+$conn=new mysqli('localhost','root','120586','biblia');
+$result = $conn->query('SELECT  favoritos FROM 	biblia');
+				
+$rows=[];
+		while ($rows[] = $result->fetch_assoc());
+		var_dump($rows);
+		$result->close();
+		$conn->close();
